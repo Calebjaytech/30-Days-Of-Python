@@ -9,6 +9,10 @@ print(3 ** 2)  # exponential(**)
 print(3 % 2)   # modulus(%)
 print(3 // 2)  # Floor division operator(//)
 
+
+
+print( 5 + 5)  #addItion is (+)
+
 # Checking data types
 
 print(type(10))                  # Int
